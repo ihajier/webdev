@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ASP_api_employee_2.props" />
+</Project>
